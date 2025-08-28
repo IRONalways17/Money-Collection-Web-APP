@@ -8,7 +8,8 @@ A secure, responsive, and user-friendly donation collection platform built with 
 
 *Note: The app will be automatically deployed to GitHub Pages when you push changes to the main branch.*
 
-![HopeFund Preview](https://via.placeholder.com/800x400/2EC4B6/FFFFFF?text=HopeFund+Preview)
+<img width="1802" height="805" alt="Screenshot 2025-08-29 023343" src="https://github.com/user-attachments/assets/9b3225bb-e479-41b9-9b24-093db8e9c241" />
+
 
 ## ✨ Features
 
