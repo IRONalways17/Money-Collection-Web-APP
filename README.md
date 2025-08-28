@@ -2,6 +2,12 @@
 
 A secure, responsive, and user-friendly donation collection platform built with modern web technologies. HopeFund connects generous hearts with meaningful causes, making it easy to donate and create positive change in the world.
 
+## 🚀 Live Demo
+
+**[🌐 View Live Application](https://ironalways17.github.io/Money-Collection-Web-APP/)** 
+
+*Note: The app will be automatically deployed to GitHub Pages when you push changes to the main branch.*
+
 ![HopeFund Preview](https://via.placeholder.com/800x400/2EC4B6/FFFFFF?text=HopeFund+Preview)
 
 ## ✨ Features
