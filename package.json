@@ -1,0 +1,36 @@
+{
+  "name": "hopefund",
+  "version": "1.0.0",
+  "description": "Modern donation web app connecting generous hearts with meaningful causes",
+  "main": "public/index.html",
+  "scripts": {
+    "start": "npx http-server public -p 3000 -o",
+    "dev": "npx http-server public -p 3000 -o -c-1",
+    "build": "echo 'No build process needed for static site'",
+    "serve": "npx serve public -p 3000"
+  },
+  "keywords": [
+    "donation",
+    "charity",
+    "fundraising",
+    "firebase",
+    "google-pay"
+  ],
+  "author": "Aaryan Choudhary",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "serve": "^14.2.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/hopefund.git"
+  },
+  "bugs": {
+    "url": "https://github.com/username/hopefund/issues"
+  },
+  "homepage": "https://hopefund.org"
+}

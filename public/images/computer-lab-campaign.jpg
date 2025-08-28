@@ -1,0 +1,12 @@
+<svg width="400" height="250" viewBox="0 0 400 250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="computerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1E40AF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3B82F6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="250" fill="url(#computerGradient)"/>
+  <text x="200" y="110" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="600" fill="#FFFFFF">💻</text>
+  <text x="200" y="140" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="500" fill="#FFFFFF">Computer Lab Setup</text>
+  <text x="200" y="165" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" fill="#DBEAFE">Digital literacy for rural schools</text>
+</svg>
