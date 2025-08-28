@@ -298,24 +298,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Created with ❤️ by [Aaryan Choudhary](https://github.com/IRONalways17)**
 - Firebase team for excellent backend services
-- Google Pay team for payment integration
-- Inter font family by Rasmus Andersson
-- Icons from Heroicons
-- Community feedback and suggestions
-
-## 📞 Support
-
-### **Get Help**
-- 📧 Email: hello@hopefund.org
-- 📱 Phone: +91 98765 43210
-- 💬 Live Chat: Available on website
-- 🐛 Issues: [GitHub Issues](https://github.com/IRONalways17/Money-Collection-Web-APP/issues)
-
-### **Links**
-- [Live Demo](https://ironalways17.github.io/Money-Collection-Web-APP/)
-- [Documentation](https://github.com/IRONalways17/Money-Collection-Web-APP/wiki)
-- [Changelog](https://github.com/IRONalways17/Money-Collection-Web-APP/releases)
-
 ---
 
 **Made with ❤️ for making the world a better place, one donation at a time.**
